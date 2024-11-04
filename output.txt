@@ -1,0 +1,82 @@
+$ dotnet run
+Number of current operatives in the rolodex: 5
+New member name (or press Enter to finish):
+f
+1. Hacker (Disables alarms)
+2. Muscle (Disarms guards)
+3. Lock Specialist (Cracks vault)
+1
+Skill level (1-100)?
+100 
+% cut?
+20
+New member name (or press Enter to finish):
+m
+1. Hacker (Disables alarms)
+2. Muscle (Disarms guards)
+3. Lock Specialist (Cracks vault)
+2
+Skill level (1-100)?
+100
+% cut?
+20
+New member name (or press Enter to finish):
+e
+1. Hacker (Disables alarms)
+2. Muscle (Disarms guards)
+3. Lock Specialist (Cracks vault)
+3
+Skill level (1-100)?
+100
+% cut?
+20
+New member name (or press Enter to finish):
+
+AlarmScore: 36
+VaultScore: 88
+SecurityGuardScore: 96
+Most Secure: Guards
+Least Secure:Alarm
+0: Hacker1 - Hacker - Skill Level: 50 - Cut: 20%
+1: Hacker2 - Hacker - Skill Level: 40 - Cut: 25%
+2: Muscle1 - Muscle - Skill Level: 60 - Cut: 15%
+3: Muscle2 - Muscle - Skill Level: 50 - Cut: 20%
+4: LockSpecialist1 - LockPicker - Skill Level: 70 - Cut: 10%
+5: f - Hacker - Skill Level: 100 - Cut: 20%
+6: m - Muscle - Skill Level: 100 - Cut: 20%
+7: e - LockPicker - Skill Level: 100 - Cut: 20%
+What's the index for the operative to add to the heist team?
+5
+0: Hacker1 - Hacker - Skill Level: 50 - Cut: 20%
+1: Hacker2 - Hacker - Skill Level: 40 - Cut: 25%
+2: Muscle1 - Muscle - Skill Level: 60 - Cut: 15%
+3: Muscle2 - Muscle - Skill Level: 50 - Cut: 20%
+4: LockSpecialist1 - LockPicker - Skill Level: 70 - Cut: 10%
+6: m - Muscle - Skill Level: 100 - Cut: 20%
+7: e - LockPicker - Skill Level: 100 - Cut: 20%
+What's the index for the operative to add to the heist team?
+6
+0: Hacker1 - Hacker - Skill Level: 50 - Cut: 20%
+1: Hacker2 - Hacker - Skill Level: 40 - Cut: 25%
+2: Muscle1 - Muscle - Skill Level: 60 - Cut: 15%
+3: Muscle2 - Muscle - Skill Level: 50 - Cut: 20%
+4: LockSpecialist1 - LockPicker - Skill Level: 70 - Cut: 10%
+7: e - LockPicker - Skill Level: 100 - Cut: 20%
+What's the index for the operative to add to the heist team?
+7
+0: Hacker1 - Hacker - Skill Level: 50 - Cut: 20%
+1: Hacker2 - Hacker - Skill Level: 40 - Cut: 25%
+2: Muscle1 - Muscle - Skill Level: 60 - Cut: 15%
+3: Muscle2 - Muscle - Skill Level: 50 - Cut: 20%
+4: LockSpecialist1 - LockPicker - Skill Level: 70 - Cut: 10%
+What's the index for the operative to add to the heist team?
+
+f is take care of the alarms. Decreased security by 100.
+m is handle the security guards. Decreased security by 100.
+e is crack the vaults. Decreased security by 100.
+e has disabled the vault system
+Success!!!
+My cut: $114992
+f's cut: 57496
+m's cut: 57496
+e's cut: 57496
